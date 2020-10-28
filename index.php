@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<script src="https://www.googleoptimize.com/optimize.js?id=GTM-PH3L2TF"></script>
 <head>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-7GZ4PZ1XZM"></script>
@@ -15,6 +14,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Teste</title>
 </head>
+<script src="https://www.googleoptimize.com/optimize.js?id=GTM-PH3L2TF"></script>
 <body>
     <p>Teste</p>
 </body>
